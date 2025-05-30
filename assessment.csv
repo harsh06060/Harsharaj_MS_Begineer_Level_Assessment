@@ -1,0 +1,5 @@
+,trade_id,commodity,volume_mwh,price_eur_per_mwh,currency,trade_date,delivery_date,trader,counterparty,trade_type,location
+0,TRD1001,Electricity,100,55.2,EUR,2025-05-01T10:00:00Z,2025-05-02,Alice Johnson,Company A,Spot,Germany
+1,TRD1002,Gas,200,32.5,EUR,2025-05-01T11:15:00Z,2025-05-03,Bob Smith,Company B,Forward,France
+2,TRD1003,Electricity,150,58.75,EUR,2025-05-02T09:30:00Z,2025-05-03,Clara Zhao,Company C,Day-Ahead,Italy
+3,TRD1004,Gas,300,31.9,EUR,2025-05-02T14:00:00Z,2025-05-04,David Lee,Company D,Spot,Netherlands
